@@ -61,7 +61,7 @@ const CONFIG = {
       { role: "어머니", bank: "OO은행", number: "000-00-000000" }
     ],
     bride: [
-      { role: "신부", bank: "신한은행", number: "0110-428-179674" },
+      { role: "신부", bank: "신한은행", number: "110-428-179674" },
       { role: "아버지", bank: "OO은행", number: "000000-00-000000" },
       { role: "어머니", bank: "OO은행", number: "000-00-000000-0" }
     ]
@@ -69,7 +69,7 @@ const CONFIG = {
 
   // ── 링크 공유 시 나타나는 문구 ──
   meta: {
-    title: "상운 ♥ 다은 결혼합니다",
+    title: "문상운 ♥ 강다은 결혼합니다",
     description: "2026년 10월 31일, 소중한 분들을 초대합니다."
   }
 };
